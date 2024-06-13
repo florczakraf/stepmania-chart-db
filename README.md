@@ -5,6 +5,7 @@ for [GrooveStats](https://groovestats.com), that I host for my personal use.
 
 ## Contributors (alphabetically)
 - andr
+- Lilly
 - zlew
 
 ## Contributions
