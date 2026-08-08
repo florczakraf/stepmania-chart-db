@@ -7,6 +7,7 @@ for [GrooveStats](https://groovestats.com), that I host for my personal use.
 - andr
 - Lilly
 - Piols
+- xelprep
 - zlew
 
 ## Changes between V1 and V2 structure
